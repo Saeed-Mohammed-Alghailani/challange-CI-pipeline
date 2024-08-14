@@ -1,7 +1,7 @@
 // test.js
 const calculateSum = require('./calculateSum');
 
-const numbers = [1, 2, 3, 5];
+const numbers = [1, 2, 3, 4];
 const expectedResult = 10;
 const result = calculateSum(numbers);
 
